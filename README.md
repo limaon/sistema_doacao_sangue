@@ -2,6 +2,8 @@
 
 Este projeto é um Sistema Especialista para determinar a elegibilidade de doadores de sangue com base em critérios como tipo sanguíneo, fator Rh, idade e peso. A interface gráfica foi desenvolvida em Python utilizando a biblioteca Tkinter e integra-se com uma base de conhecimento em Prolog.
 
+![image](https://github.com/user-attachments/assets/fd356d22-51c4-4650-a80c-5650af7b0948)
+
 ## Funcionalidades
 
 1. **Doar para Específico**: Determine quem está apto a doar para um receptor específico.
