@@ -4,6 +4,15 @@ Este projeto é um Sistema Especialista para determinar a elegibilidade de doado
 
 ![image](https://github.com/user-attachments/assets/fd356d22-51c4-4650-a80c-5650af7b0948)
 
+
+## Grupo
+- Alvaro Lima
+- Caio Marques
+- Danilo Marcano
+- Enzo Abensur
+- Jullian Brito
+- Pedro Vitoriano
+
 ## Funcionalidades
 
 1. **Doar para Específico**: Determine quem está apto a doar para um receptor específico.
